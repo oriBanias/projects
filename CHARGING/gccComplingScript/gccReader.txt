@@ -1,0 +1,1 @@
+gcc -g -ansi -pedantic -Wall -pthread reader.c ../cFiles/cdr.c
